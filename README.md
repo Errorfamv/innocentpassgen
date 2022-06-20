@@ -14,8 +14,11 @@ pkg install python
 pkg install git
 
 git clone https://github.com/Errorfamv/innocentpassgen.git
+
 cd innocentpassgen
+
 ls
+
 python innocentpassgen2.0.py 
 
 
