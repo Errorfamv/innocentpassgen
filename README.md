@@ -9,8 +9,9 @@ install Tool
 requires
 
 #Termux
-pkg install update && pkg install upgrade
+
 pkg install python
+
 pkg install git
 
 git clone https://github.com/Errorfamv/innocentpassgen.git
@@ -20,6 +21,22 @@ cd innocentpassgen
 ls
 
 python innocentpassgen2.0.py 
+
+______________________________
+#linux
+
+apt-get install python
+
+apt-get install git
+
+git clone https://github.com/Errorfamv/innocentpassgen.git
+
+cd innocentpassgen
+
+python innocentpassgen2.0.py
+
+Help 👉 https://t.me/ERROR_FAMV_1
+     Telegram chat 👆
 
 
 shortcut
