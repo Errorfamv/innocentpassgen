@@ -20,7 +20,7 @@ cd innocentpassgen
 
 ls
 
-python innocentpassgen2.0.py 
+python innocentpassgen2.0_enc.py
 
 ______________________________
 #linux
@@ -33,7 +33,7 @@ git clone https://github.com/Errorfamv/innocentpassgen.git
 
 cd innocentpassgen
 
-python innocentpassgen2.0.py
+python innocentpassgen2.0_enc.py
 
 Help 👉 https://t.me/ERROR_FAMV_1
      Telegram chat 👆
